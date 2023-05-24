@@ -1,0 +1,15 @@
+name: NaurelliaGuard
+version: '1.0-SNAPSHOT'
+main: com.naurellia.naurelliaguard.NaurelliaGuard
+api-version: 1.19
+commands:
+  naurelliaGuardScoreReset:
+    description: Resets the score of the player
+    aliases:
+      - ngsr
+    permission: naurellia.admin
+  naurelliaGuardScore:
+    description: Shows the score of the player
+    aliases:
+      - ngs
+    permission: naurellia.admin

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NaurelliaGuard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NaurelliaGuard_jar</output-path>
+    <root id="archive" name="NaurelliaGuard.jar">
+      <element id="module-output" name="NaurelliaGuard" />
+    </root>
+  </artifact>
+</component>
